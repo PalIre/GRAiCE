@@ -24,7 +24,7 @@ __8.	PCC comparison.__ PCC values for the retrained models were computed in the 
 __9.	Global predictions definition.__ Predictions from both the original and new LR values were merged based on pixel ID to produce the final global dataset. 
 __10.	Models performance analysis.__ Models performance was estimated with various performance metrics and by comparing GR*Ai*CE predictions against other TWSA products.
 
-For a detailed description of the modeling approach, users are advised to refer to our paper (currently under review) before usage.  
+For a detailed description of the modeling approach, users are advised to refer to our paper ([Palazzoli et al., 2025](https://doi.org/10.1038/s41597-025-04403-3)) before usage.  
 
 Questions about the dataset can be directed to irene.palazzoli@unibo.it.  
 The GR*Ai*CE dataset is available [here](https://doi.org/10.5281/zenodo.10953658).
